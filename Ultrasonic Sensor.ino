@@ -31,4 +31,4 @@ void loop()
   Serial.println(frontdistance);				//watching values by serial monitor
   delay(400);
 }
-//Thanks to my dear frien Eray Tuncan
+//Thanks to my dear friend Eray Tuncan
